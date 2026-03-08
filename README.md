@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Projeto Billboard Hot 100 Analysis
 
 ## Descrição
@@ -11,7 +11,7 @@ Billboard Hot 100 (1958–2024)
 Fonte: Kaggle — Billboard Hot 100 (1958–2024)
 
 Colunas:
-=======
+
 # Billboard Hot 100 Analysis
 
 ## Descrição
@@ -25,24 +25,20 @@ Projeto desenvolvido para prática de análise de dados com dataset real.
 Fonte: Kaggle — Billboard Hot 100 (1958–2024)
 
 ### Colunas
->>>>>>> e538007 (correção do nome + update insights)
 
 - chart_week — semana do chart
 - current_week — posição na semana
 - title — música
 - performer — artista
-<<<<<<< HEAD
 - last_week — posição na semana anterior
-=======
 - last_week — posição na chart anterior
->>>>>>> e538007 (correção do nome + update insights)
 - peak_pos — melhor posição alcançada
 - wks_on_chart — semanas no chart
 
 Total de registros: 343.600
 
 ## Exploração inicial
-<<<<<<< HEAD
+
 Foram realizadas verificações iniciais:
 
 - Visualização dos dados (head)
@@ -52,7 +48,7 @@ Foram realizadas verificações iniciais:
 - Verificação de valores nulos
 
 Resultado:
-=======
+
 
 ### Etapas realizadas
 
@@ -63,7 +59,6 @@ Resultado:
 - Verificação de valores nulos
 
 ### Resultados
->>>>>>> e538007 (correção do nome + update insights)
 
 - Dataset consistente
 - Sem duplicados
@@ -74,9 +69,7 @@ Resultado:
 
 - Python
 - Pandas
-<<<<<<< HEAD
 - Jupyter Notebook
-=======
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
@@ -122,9 +115,5 @@ pip install pandas matplotlib seaborn
 
 ### Abrir o notebook
 
-```
-analise.ipynb
-```
+Abra o arquivo `analise.ipynb` no Jupyter Notebook ou JupyterLab e execute as células.
 
-Executar as células.
->>>>>>> e538007 (correção do nome + update insights)
